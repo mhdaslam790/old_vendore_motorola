@@ -744,6 +744,8 @@ PRODUCT_PACKAGES += \
     libthermalclient \
     libtime_genoff \
     libloc_api_v02 \
+    HotwordEnrollmentOKGoogleHEXAGON \
+    HotwordEnrollmentXGoogleHEXAGON \
     vendor.qti.hardware.fm@1.0 \
     WfdService \
     TimeService \
